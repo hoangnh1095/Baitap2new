@@ -24,35 +24,14 @@ int PhepChia(int a, int b)
 	return a / b;
 }
 
-
 int HieuRand2so(int a, int b)
 {
 	srand(time(NULL));
 	int a = rand() % (100 - 0 + 1);
 	int b = rand() % (100 - 0 + 1);
-	int tong = a + b;
+	int hieu = a - b;
 	int kq;
-	cout << "Tong cua " << a << " + " << b << "la = ? ";
-	cin >> kq;
-	if (tong == kq)
-	{
-		cout << " Ket qua nhap vao la DUNG!!";
-	}
-	else
-	{
-		cout << "Ket qua nhap vao la SAI!!";
-	}
-	return tong;
-}
-
-int HieuRand2so(int a, int b)
-{
-	srand(time(NULL));
-	int a = rand() % (100 - 0 + 1);
-	int b = rand() % (100 - 0 + 1);
-	int hieu = a + b;
-	int kq;
-	cout << "Tong cua " << a << " - " << b << "la = ? ";
+	cout << "Hieu cua " << a << " - " << b << "la = ? ";
 	cin >> kq;
 	if (hieu == kq)
 	{
@@ -62,7 +41,7 @@ int HieuRand2so(int a, int b)
 	{
 		cout << "Ket qua nhap vao la SAI!!";
 	}
-	return tong;
+	return hieu;
 }
 int TongRand2so(int a, int b)
 {
