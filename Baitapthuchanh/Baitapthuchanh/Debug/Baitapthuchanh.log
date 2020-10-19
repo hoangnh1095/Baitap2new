@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(86): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(88): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(96): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(96): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(97): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(97): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(98): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(98): warning C4566: character represented by universal-character-name '\u1EEF' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(98): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(99): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(100): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(101): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(101): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(101): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Baitapthuchanh\main.cpp(101): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+  Baitapthuchanh.vcxproj -> D:\Thầy Bằng\Baitap2new\Baitapthuchanh\Debug\Baitapthuchanh.exe
